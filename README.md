@@ -1,7 +1,7 @@
 # Unsupervised Change Detection in Satellite Images Using Convolutional Neural Networks
 
 ## Overview
-This project implements an unsupervised deep learning approach for detecting and classifying changes between satellite images of the same location taken at different times. The system utilizes a Convolutional Neural Network (CNN) architecture combined with semantic segmentation to automatically identify meaningful changes in satellite imagery.
+This project reviews and implements an unsupervised deep learning approach for detecting and classifying changes between satellite images of the same location taken at different times. The system utilizes a Convolutional Neural Network (CNN) architecture combined with semantic segmentation to automatically identify meaningful changes in satellite imagery.
 ![Unet](https://user-images.githubusercontent.com/48834483/54834087-1a4dfe80-4cc8-11e9-96bb-017fd63be742.png)
 
 ## Key Features
